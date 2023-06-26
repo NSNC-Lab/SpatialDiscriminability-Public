@@ -3,7 +3,7 @@ Code for neural discriminability analysis
 
 Example processed spikes from single subject is provided.
 
-Dependencies from other toolboxes (included in repo):
+Dependencies from other toolboxes:
 
 cSPIKE (https://thomas-kreuz.complexworld.net/source-codes/spiky)
 npy-matlab (https://github.com/kwikteam/npy-matlab)
